@@ -1,0 +1,36 @@
+.topnav {
+    background-color: aqua;
+    overflow: hidden;
+  }
+
+  .topnav a {
+    float: left;
+    display: block;
+    color: #423979;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav a:hover {
+    background-color: #e65800;
+    color: blue;
+  }
+
+  body {
+    background-image: url('oriental-tiles.png');
+    color: #FFFF99;
+  }
+
+  .info {
+    background-color: aqua;
+  }
+
+  h2 {
+    color: 	#CCCC00;
+  }
+
+  p {
+    color: #423979;
+  }
